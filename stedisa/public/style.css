@@ -1,0 +1,21 @@
+.header-lower{
+    padding: 50px;
+    font-size: 20px;
+    font-style: bold;
+    
+   
+}
+
+#link{
+    color: #252525;
+    transition: transform 300ms ease-out;
+    display: block;
+
+}
+#link:hover{
+    color: #832F30;
+    text-decoration:none; 
+    cursor:pointer;  
+    transform: scale(1.1);
+
+}

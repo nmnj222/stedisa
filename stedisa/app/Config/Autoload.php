@@ -90,5 +90,5 @@ class Autoload extends AutoloadConfig
      *
      * @var list<string>
      */
-    public $helpers = [];
+    public $helpers = ['http://localhost:8080/htdocs/app/stedisa/stedisa'];
 }
