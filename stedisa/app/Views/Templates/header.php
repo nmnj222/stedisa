@@ -29,7 +29,7 @@
 <div class="hamburger__menu__overlay"></div>
     <div class="hamburger__menu__wrapper">
         <div class="hamburger__menu__logo">
-            <a href="#"><img src="img/stedisa-logo.png" alt=""></a>
+            <a href="#"><img src="img/logo.png" alt=""></a>
         </div>
         <div class="hamburger__menu__cart">
             <ul>
@@ -101,7 +101,7 @@
                             </div>
                             
                             <div class="header__top__right__auth">
-                                <a href="#"><i class="fa fa-user"></i> Login</a>
+                                <a href="./login"><i class="fa fa-user"></i> Login</a>
                             </div>
                         </div>
                     </div>
