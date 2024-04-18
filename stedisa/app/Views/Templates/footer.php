@@ -5,12 +5,12 @@
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
                         <div class="footer__about__logo">
-                            <a href="./index.html"><img src="img/logo.png" alt=""></a>
+                            <a href="./index.html"><img src="img/stedisa-logo.png" alt="stedisa.logo" class="footer-logo-img"></a>
                         </div>
                         <ul>
-                            <li>Adresa: Ulica Baku 28</li>
-                            <li>Telefon: +38269113311</li>
-                            <li>Email: info@stedisa.com</li>
+                            <li style="margin-left: 15px;">Adresa: Ulica Baku 28</li>
+                            <li style="margin-left: 15px;">Telefon: +38269113311</li>
+                            <li style="margin-left: 15px;">Email: info@stedisa.com</li>
                         </ul>
                     </div>
                 </div>

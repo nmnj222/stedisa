@@ -1,8 +1,35 @@
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Ogani Template">
+    <meta name="keywords" content="Ogani, unica, creative, html">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Stedisa</title>
+
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;900&display=swap" rel="stylesheet">
+
+    <!-- Css Styles -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+    <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css">
+    <link rel="stylesheet" href="css/elegant-icons.css" type="text/css">
+    <link rel="stylesheet" href="css/nice-select.css" type="text/css">
+    <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
+    <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
+
+    <link rel="stylesheet" href="sass/style.css" type="text/css"> <!-- change sass to css in the end  -->
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
 <!-- Hamburger (only visible on tablets and mobiles) -->
 <div class="hamburger__menu__overlay"></div>
     <div class="hamburger__menu__wrapper">
         <div class="hamburger__menu__logo">
-            <a href="#"><img src="img/logo.png" alt=""></a>
+            <a href="#"><img src="img/stedisa-logo.png" alt=""></a>
         </div>
         <div class="hamburger__menu__cart">
             <ul>
@@ -86,7 +113,7 @@
             <div class="row">
                 <div class="col-lg-3">
                     <div class="header__logo">
-                       <!-- LOGO OVDJE -->
+                    <a href="./index.html"><img src="img/stedisa-logo.png" alt=""></a>
                     </div>
                 </div>
                 <div class="col-lg-6">

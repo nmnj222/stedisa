@@ -8,6 +8,7 @@ body {
 
 .header-lower{
   padding: 50px;
+ 
 }
 
 h1,
@@ -95,7 +96,7 @@ ol {
   right: 0;
   height: 4px;
   width: 80px;
-  background: #833030;
+  background: #04DDC5;
   content: "";
   margin: 0 auto;
 }
@@ -132,7 +133,7 @@ ol {
   color: #ffffff;
   text-transform: uppercase;
   font-weight: 700;
-  background: #833030;
+  background: #05ddc6;
   letter-spacing: 2px;
 }
 
@@ -143,7 +144,7 @@ ol {
   text-transform: uppercase;
   display: inline-block;
   padding: 13px 30px 12px;
-  background: #833030;
+  background: #05ddc6;
   border: none;
 }
 
@@ -371,6 +372,8 @@ ol {
 
 /* Header bottom part */
 .header__logo {
+  height: 100px;
+  width: 150px;
   padding: 15px 0;
 }
 
@@ -409,7 +412,7 @@ ol {
 }
 
 .header__menu ul li .header__menu__dropdown li:hover > a {
-  color: #833030;
+  color: #04DDC5;
 }
 
 .header__menu ul li .header__menu__dropdown li a {
@@ -420,7 +423,7 @@ ol {
 }
 
 .header__menu ul li.active a {
-  color: #833030;
+  color: 05c4ae;
 }
 
 .header__menu ul li:hover .header__menu__dropdown {
@@ -430,7 +433,7 @@ ol {
 }
 
 .header__menu ul li:hover > a {
-  color: #833030;
+  color: #05c4ae;
 }
 
 .header__menu ul li:last-child {
@@ -481,7 +484,7 @@ ol {
 .header__cart ul li a span {
   height: 13px;
   width: 13px;
-  background: #833030;
+  background: #05c4ae;
   font-size: 10px;
   color: #ffffff;
   line-height: 13px;
@@ -542,7 +545,7 @@ ol {
 }
 
 .hero__categories__all {
-  background: #833030;
+  background: #05ddc6;
   position: relative;
   padding: 10px 25px 10px 40px;
   cursor: pointer;
@@ -667,7 +670,7 @@ ol {
 
 .hero__search__phone__icon {
   font-size: 18px;
-  color: #833030;
+  color: #05c4ae;
   height: 50px;
   width: 50px;
   background: #f5f5f5;
@@ -710,7 +713,7 @@ ol {
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 4px;
-  color: #833030;
+  color: #05c4ae;
 }
 
 .hero__text h2 {
@@ -751,7 +754,7 @@ ol {
   display: block;
 }
 
-.categories__slider .col-lg-3 {
+.categories__slider .li3 {
   max-width: 100%;
 }
 
@@ -806,7 +809,7 @@ ol {
   bottom: -2px;
   width: 100%;
   height: 2px;
-  background: #833030;
+  background: #05c4ae;
   content: '';
   opacity: 0;
 }
@@ -851,8 +854,8 @@ ol {
 }
 
 .featured__item__pic__hover li:hover a {
-  background: #833030;
-  border-color: #833030;
+  background: #05c4ae;
+  border-color: #05c4ae;
 }
 
 .featured__item__pic__hover li:hover a i {
@@ -1269,8 +1272,8 @@ ol {
 }
 
 .product__item__pic__hover li:hover a {
-  background: #833030;
-  border-color: #833030;
+  background: #05c4ae;
+  border-color: #05c4ae;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1460,7 +1463,7 @@ ol {
 }
 
 .filter__option span:hover {
-  color: #833030;
+  color: #05c4ae;
 }
 
 .product__item {
@@ -1498,8 +1501,8 @@ ol {
 }
 
 .product__item__pic__hover li:hover a {
-  background: #833030;
-  border-color: #833030;
+  background: #05c4ae;
+  border-color: #05c4ae;
 }
 
 .product__item__pic__hover li:hover a i {
@@ -1569,8 +1572,8 @@ ol {
 }
 
 .product__pagination a:hover, .blog__pagination a:hover {
-  background: #833030;
-  border-color: #833030;
+  background: #05c4ae;
+  border-color: #05c4ae;
   color: #ffffff;
 }
 
@@ -2103,8 +2106,8 @@ ol {
 }
 
 .checkout__input__checkbox label input:checked ~ .checkmark {
-  background: #833030;
-  border-color: #833030;
+  background: #05c4ae;
+  border-color: #05c4ae;
 }
 
 .checkout__input__checkbox label input:checked ~ .checkmark:after {
@@ -2321,7 +2324,7 @@ ol {
 }
 
 .blog__sidebar__item ul li a:hover {
-  color: #833030;
+  color: #05c4ae;
 }
 
 .blog__sidebar__search {
@@ -2548,7 +2551,7 @@ ol {
 }
 
 .blog__details__widget .blog__details__social a:hover {
-  color: #833030;
+  color: #05c4ae;
 }
 
 .blog__details__widget .blog__details__social a:last-child {
@@ -2573,8 +2576,12 @@ ol {
   list-style: none;
 }
 
+.footer-logo-img{
+  width: 200px;
+  height: 150px;
+}
 .footer__about__logo {
-  margin-bottom: 15px;
+margin-bottom: 15px;
 }
 
 .footer__about__logo a {
@@ -2672,7 +2679,7 @@ ol {
 }
 
 .footer__widget .footer__widget__social a:hover {
-  background: #833030;
+  background: #05c4ae;
   color: #ffffff;
   border-color: #ffffff;
 }
@@ -2707,7 +2714,7 @@ ol {
 
 .contact__widget span {
   font-size: 36px;
-  color: #833030;
+  color: #05c4ae;
 }
 
 .contact__widget h4 {
