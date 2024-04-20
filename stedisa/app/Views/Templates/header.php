@@ -153,17 +153,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm text-center">
-                        <a href="#" id="link">
+                        <a href="./retail" id="link">
                         Prehrambena industrija
                         </a>
                     </div>
                     <div class="col-sm text-center">
-                        <a href="#" id="link">
+                        <a href="./beauty" id="link">
                         Kozmetika i ljepota
                         </a>
                     </div>
                     <div class="col-sm text-center">
-                        <a href="#" id="link">
+                        <a href="./technology" id="link">
                         Tehnologija
                         </a>
                     </div>
