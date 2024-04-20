@@ -6,8 +6,20 @@
    
 }
 .login__body{
-    background-color: white;
+
 }
+.login__body::before {
+    content: '';
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(img/stedisa-bkg.jpg);
+    background-size: 50px 50px;
+    opacity: 0.6;
+    position: absolute;
+  }
+  
 #link{
     color: #252525;
     transition: transform 300ms ease-out;
