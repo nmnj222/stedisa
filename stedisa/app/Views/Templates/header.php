@@ -119,7 +119,7 @@
                 <div class="col-lg-6">
                     <nav class="header__menu">
                         <ul>
-                            <li class="active"><a href="./index.html">Početna</a></li>
+                            <li class="active"><a href="./#">Početna</a></li>
                            
                             <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
@@ -129,7 +129,7 @@
                                     <li><a href="./blog-details.html">Blog Details</a></li>
                                 </ul>
                             </li>
-                            <li><a href="./blog.html">Blog</a></li>
+                            <li><a href="./blog">Blog</a></li>
                             <li><a href="./contact">Kontakt</a></li>
                             <li><a href="./blog.html">O nama</a></li>
                         </ul>
@@ -139,7 +139,7 @@
                     <div class="header__cart">
                         <ul>
                             <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                            <li><a href="./cart"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
                         </ul>
                         <div class="header__cart__price"><span>$10.00</span></div>
                     </div>
